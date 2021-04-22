@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=GND Pin=7V-2
+Removed Pin From Net: NetName=GND Pin=PS3-1
+Removed Pin From Net: NetName=VCC Pin=PS3-2
+Change Component Footprint: Designator=PS2 Old Footprint=PCBComponent_1 New Footprint=D24V150F5
+Change Component Comment : Designator=PS2 Old Comment=Component_1 New Comment=D24V150F5
+Change Component Designator: OldDesignator=PS1 NewDesignator=PS12V
+Change Component Designator: OldDesignator=PS2 NewDesignator=PS5V
+Added Component: Designator=R2(AXIAL-0.3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.43K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net24V_1 Pin=R2-1
+Added Net: Name=Net24V_1
+Added Pin To Net: NetName=NetPS24V_7 Pin=R2-2
+Added Net: Name=NetPS24V_7
+Added Member To Class: ClassName=Regulators Member=Component 5V TB001-500-02BE
+Added Member To Class: ClassName=Regulators Member=Component 12V TB001-500-02BE
+Added Member To Class: ClassName=Regulators Member=Component PS5V D24V150F5
+Added Member To Class: ClassName=Regulators Member=Component PS12V P783F-Q24-S12-S
+Added Member To Class: ClassName=Regulators Member=Component R2 Res1
+Added Member To Class: ClassName=Regulators Member=Component VCC TB001-500-02BE
+Added Room: Name=Regulators

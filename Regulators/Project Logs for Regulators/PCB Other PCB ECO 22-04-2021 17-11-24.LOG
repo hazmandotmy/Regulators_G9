@@ -1,0 +1,24 @@
+Change Component Library : Designator=5V_A Old Library=* New Library=i6A 24V.SchLib
+Change Component Library : Designator=12V Old Library=* New Library=i6A 24V.SchLib
+Change Component Library : Designator=VCC_IN Old Library=* New Library=i6A 24V.SchLib
+Change Component Library : Designator=PS12V Old Library=* New Library=P783F-Q24-S12-S.SchLib
+Added Component: Designator=5V_B(TB00150002BE)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//TB001-500-02BE.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TB001-500-02BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "490-TB001-500-02BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=490-TB001-500-02BE"; VariantName = "[No Variations]"
+Added Component: Designator=VCC_OUT(TB00150002BE)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//TB001-500-02BE.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TB001-500-02BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "490-TB001-500-02BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=490-TB001-500-02BE"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_5V Pin=5V_B-1
+Added Pin To Net: NetName=GND Pin=5V_B-2
+Added Pin To Net: NetName=VCC Pin=VCC_OUT-1
+Added Pin To Net: NetName=GND Pin=VCC_OUT-2
+Added Member To Class: ClassName=Regulators Member=Component 5V_B TB001-500-02BE
+Added Member To Class: ClassName=Regulators Member=Component VCC_OUT TB001-500-02BE
