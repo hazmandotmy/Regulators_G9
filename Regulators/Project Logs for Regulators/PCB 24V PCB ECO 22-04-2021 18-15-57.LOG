@@ -1,0 +1,104 @@
+Removed Pin From Net: NetName=GND Pin=24V-2
+Removed Pin From Net: NetName=VCC Pin=PS24V-1
+Removed Pin From Net: NetName=GND Pin=PS24V-3
+Removed Pin From Net: NetName=GND Pin=PS24V-4
+Removed Member From Class: ClassName=Regulators Member=VCC
+Change Component Designator: OldDesignator=24V NewDesignator=?
+Change Component Designator: OldDesignator=PS24V NewDesignator=PS?
+Change Component Designator: OldDesignator=R2 NewDesignator=R?
+Change Component Designator: OldDesignator=VCC NewDesignator=VCC_IN
+Added Component: Designator=5V_A(TB00150002BE)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//TB001-500-02BE.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TB001-500-02BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "490-TB001-500-02BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=490-TB001-500-02BE"; VariantName = "[No Variations]"
+Added Component: Designator=5V_B(TB00150002BE)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//TB001-500-02BE.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TB001-500-02BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "490-TB001-500-02BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=490-TB001-500-02BE"; VariantName = "[No Variations]"
+Added Component: Designator=12V(TB00150002BE)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//TB001-500-02BE.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TB001-500-02BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "490-TB001-500-02BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=490-TB001-500-02BE"; VariantName = "[No Variations]"
+Added Component: Designator=PS5V(D24V150F5)
+Added Component: Designator=PS12V(P783FQ24S12S)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.cui.com/product/resource/p783f-s.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "13mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "P783F-Q24-S12-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VCC_IN(TB00150002BE)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//TB001-500-02BE.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TB001-500-02BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "490-TB001-500-02BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=490-TB001-500-02BE"; VariantName = "[No Variations]"
+Added Component: Designator=VCC_OUT(TB00150002BE)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//TB001-500-02BE.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TB001-500-02BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "490-TB001-500-02BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=490-TB001-500-02BE"; VariantName = "[No Variations]"
+Added Component: Designator=VCC_OUT(TB00150002BE)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//TB001-500-02BE.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TB001-500-02BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "490-TB001-500-02BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=490-TB001-500-02BE"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=5V_A-2
+Added Pin To Net: NetName=GND Pin=5V_B-2
+Added Pin To Net: NetName=GND Pin=12V-2
+Added Pin To Net: NetName=VCC Pin=PS5V-1
+Added Pin To Net: NetName=VCC Pin=PS5V-1
+Added Pin To Net: NetName=GND Pin=PS5V-2
+Added Pin To Net: NetName=GND Pin=PS5V-2
+Added Pin To Net: NetName=GND Pin=PS5V-5
+Added Pin To Net: NetName=GND Pin=PS5V-6
+Added Pin To Net: NetName=GND Pin=PS5V-8
+Added Pin To Net: NetName=GND Pin=PS5V-8
+Added Pin To Net: NetName=VCC Pin=PS12V-2
+Added Pin To Net: NetName=GND Pin=PS12V-5
+Added Pin To Net: NetName=GND Pin=PS12V-6
+Added Pin To Net: NetName=GND Pin=PS12V-7
+Added Pin To Net: NetName=GND Pin=PS12V-8
+Added Pin To Net: NetName=VCC Pin=VCC_OUT-1
+Added Pin To Net: NetName=GND Pin=VCC_OUT-2
+Change Net Name : Old Net Name=Net24V_1 New Net Name=Net?_1
+Change Net Name : Old Net Name=NetPS24V_7 New Net Name=NetPS?_7
+Added Pin To Net: NetName=Net?_2 Pin=?-2
+Added Pin To Net: NetName=Net?_2 Pin=PS?-4
+Added Net: Name=Net?_2
+Added Pin To Net: NetName=NetPS?_1 Pin=PS?-1
+Added Pin To Net: NetName=NetPS?_1 Pin=VCC_IN-1
+Added Pin To Net: NetName=NetPS?_1 Pin=VCC_OUT-1
+Added Net: Name=NetPS?_1
+Added Pin To Net: NetName=NetPS?_3 Pin=PS?-3
+Added Pin To Net: NetName=NetPS?_3 Pin=VCC_IN-2
+Added Pin To Net: NetName=NetPS?_3 Pin=VCC_OUT-2
+Added Net: Name=NetPS?_3
+Added Pin To Net: NetName=VCC_5V Pin=5V_A-1
+Added Pin To Net: NetName=VCC_5V Pin=5V_B-1
+Added Pin To Net: NetName=VCC_5V Pin=PS5V-9
+Added Pin To Net: NetName=VCC_5V Pin=PS5V-9
+Added Net: Name=VCC_5V
+Added Pin To Net: NetName=VCC_12V Pin=12V-1
+Added Pin To Net: NetName=VCC_12V Pin=PS12V-9
+Added Net: Name=VCC_12V
+Change Class Name : Old Net Name=Regulators New Net Name=Motor_regulators
+Added Class: Name=Regulators
+Added Member To Class: ClassName=Motor_regulators Member=Component VCC_IN TB001-500-02BE
+Added Member To Class: ClassName=Motor_regulators Member=Component VCC_OUT TB001-500-02BE
+Added Room: Name=Motor_regulators
+Added Room: Name=Regulators
