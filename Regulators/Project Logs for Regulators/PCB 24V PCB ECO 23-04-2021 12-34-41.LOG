@@ -1,0 +1,64 @@
+Change Component Comment : Designator=R1 Old Comment=Res1 New Comment=Rup
+Change Component Designator: OldDesignator=R1 NewDesignator=R3
+Change component parameters: Designator = "R1" ("R3"); Footprint = "AXIAL-0.3"; UniqueID = "\FIOINNEF" ("\FIOINNEF")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "430"; VariantName = "[No Variations]"
+Added Component: Designator=C6(RB7.6-15)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Polarized Capacitor (Radial); 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RB7.6-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Added Component: Designator=C7(RAD-0.3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C8(RB7.6-15)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Polarized Capacitor (Radial); 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RB7.6-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetPS24V_3 Pin=24V-2
+Added Pin To Net: NetName=NetPS24V_1 Pin=C6-1
+Added Pin To Net: NetName=NetPS24V_3 Pin=C6-2
+Added Pin To Net: NetName=NetPS24V_3 Pin=C7-1
+Added Pin To Net: NetName=NetPS24V_3 Pin=C8-2
+Added Pin To Net: NetName=NetPS24V_3 Pin=PS24V-4
+Added Pin To Net: NetName=NetPS24V_3 Pin=R3-1
+Added Pin To Net: NetName=NetPS24V_1 Pin=VCC_IN-1
+Added Pin To Net: NetName=NetPS24V_3 Pin=VCC_IN-2
+Added Pin To Net: NetName=NetPS24V_1 Pin=VCC_OUT-1
+Added Pin To Net: NetName=NetPS24V_3 Pin=VCC_OUT-2
+Change Net Name : Old Net Name=NetPS24V_1 New Net Name=VCC
+Change Net Name : Old Net Name=NetPS24V_3 New Net Name=GND
+Added Net: Name=NetPS5V_6
+Added Pin To Net: NetName=NetPS24V_6 Pin=PS24V-6
+Added Pin To Net: NetName=NetPS24V_6 Pin=R3-2
+Added Net: Name=NetPS24V_6
+Added Pin To Net: NetName=VCC_24V Pin=24V-1
+Added Pin To Net: NetName=VCC_24V Pin=C7-2
+Added Pin To Net: NetName=VCC_24V Pin=C8-1
+Added Pin To Net: NetName=VCC_24V Pin=PS24V-7
+Added Pin To Net: NetName=VCC_24V Pin=PS24V-8
+Added Net: Name=VCC_24V
+Added Member To Class: ClassName=Motor_regulators Member=Component C6 Cap Pol1
+Added Member To Class: ClassName=Motor_regulators Member=Component C7 Cap
+Added Member To Class: ClassName=Motor_regulators Member=Component C8 Cap Pol1
+Added Member To Class: ClassName=Motor_regulators Member=Component VCC_IN TB001-500-02BE
+Added Member To Class: ClassName=Regulators Member=Component VCC_IN TB001-500-02BE
+Added Member To Class: ClassName=Motor_regulators Member=Component VCC_OUT TB001-500-02BE
+Added Member To Class: ClassName=Regulators Member=Component VCC_OUT TB001-500-02BE

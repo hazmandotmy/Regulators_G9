@@ -208,7 +208,7 @@ GenerateClassCluster=0
 DocumentUniqueId=OAZHWSPB
 
 [Document11]
-DocumentPath=lib\I6A4W020A033V-001-R.IntLib
+DocumentPath=lib\I6A4W020A033V-001-R\Project Outputs for I6A4W020A033V-001-R\I6A4W020A033V-001-R.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
