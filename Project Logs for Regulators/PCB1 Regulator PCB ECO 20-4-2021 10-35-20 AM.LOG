@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator=PS? NewDesignator=PS2
+Added Component: Designator=PS1(P783FQ24S12S)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.cui.com/product/resource/p783f-s.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "13mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "P783F-Q24-S12-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=PS1-2
+Added Pin To Net: NetName=VCC Pin=PS1-5
+Added Pin To Net: NetName=VCC Pin=PS1-6
+Added Pin To Net: NetName=VCC Pin=PS1-7
+Added Pin To Net: NetName=VCC Pin=PS1-8
+Added Pin To Net: NetName=VCC_12V Pin=PS1-9
+Change Net Name : Old Net Name=NetPS?_4 New Net Name=NetPS2_4
+Change Net Name : Old Net Name=NetPS?_6 New Net Name=NetPS2_6
